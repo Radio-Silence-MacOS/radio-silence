@@ -1,4 +1,4 @@
-# Radio Silence – Simple Firewall & Network Monitor
+# Radio Silence Mac
 
 ![Radio Silence Mac Logo](https://images.icon-icons.com/3053/PNG/512/radio_silence_macos_bigsur_icon_189799.png)   
 
